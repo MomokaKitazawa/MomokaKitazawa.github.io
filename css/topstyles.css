@@ -252,15 +252,15 @@ header {
 }
 
 .top-profile img {
-  width: 120px;
-  height: 120px;
+  width: 140px;
+  height: 140px;
   margin-top: 10px;
   margin-right: 20px;
 }
 
 .top-profile p {
   margin-top: 10px;
-  font-size: 8px;
+  font-size: 12px;
   width: 120px;
   height: 120px;
   display: flex;
