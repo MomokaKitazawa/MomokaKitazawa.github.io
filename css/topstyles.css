@@ -218,7 +218,7 @@ header {
 .wi01 p br, .wi02 p br, .wi03 p br, .wi04 p br, .wi05 p br, .wi06 p br {
   display: block;
   content: "";
-  margin: 32px 0;
+  margin: 36px 0;
 }
 
 /* .more {
